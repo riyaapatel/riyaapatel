@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=140&section=header&text=Riya%20Patel&fontSize=38&fontColor=e2e8f0&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Engineer%20%7C%20.NET%20%C2%B7%20Angular%20%C2%B7%20React%20%C2%B7%20SQL%20Server%20%C2%B7%20AI&descAlignY=68&descSize=14&descColor=94a3b8" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=140&section=header&text=Riya%20Patel&fontSize=38&fontColor=000&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Engineer%20%7C%20.NET%20%C2%B7%20Angular%20%C2%B7%20React%20%C2%B7%20SQL%20Server%20%C2%B7%20AI&descAlignY=68&descSize=14&descColor=94a3b8" width="100%" alt="header" />
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=riyaapatel&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
