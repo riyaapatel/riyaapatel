@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=140&section=header&text=Riya%20Patel&fontSize=38&fontColor=000&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Engineer%20%7C%20.NET%20%C2%B7%20Angular%20%C2%B7%20React%20%C2%B7%20SQL%20Server%20%C2%B7%20AI&descAlignY=68&descSize=14&descColor=94a3b8" width="100%" alt="header" />
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=riyaapatel&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&background=00000000&width=600&lines=Full-Stack+Engineer+%7C+5%2B+Years+in+Production;.NET+Core+%C2%B7+Angular+%C2%B7+React+%C2%B7+SQL+Server+%C2%B7+AI;Building+systems+that+hold+up+outside+demos;Open+to+remote+opportunities)](https://git.io/typing-svg)
 
 I'm a Full-Stack Software Engineer with 5+ years of experience shipping production-grade systems in the .NET ecosystem, and more recently integrating AI and LLMs into those systems in ways that hold up outside of demos.
