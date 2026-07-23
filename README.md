@@ -49,9 +49,8 @@ Built onboarding docs and led pair programming walkthroughs that cut junior engi
 
 ## What I'm Working On
 
-- Finishing my MSCS at Western Kentucky University, graduating May 2026
+- Finishing my MSCS at Western Kentucky University, graduating Dec 2026
 - Deepening my work in AI-integrated backend systems: RAG pipelines, text-to-SQL, and making LLM outputs reliable in production
-- Building out public projects I can point to here
 
 
 ## Get In Touch
