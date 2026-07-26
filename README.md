@@ -1,8 +1,6 @@
-Full-Stack Software Engineer | .NET Core, Angular, Node.js | AI/LLM Integration | MSCS @ WKU
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&background=00000000&width=600&lines=Full-Stack+Engineer+%7C+5%2B+Years+in+Production;.NET+Core+%C2%B7+Angular+%C2%B7+React+%C2%B7+SQL+Server+%C2%B7+AI;Building+systems+that+hold+up+outside+demos;Open+to+remote+opportunities)](https://git.io/typing-svg)
 
-Full-stack engineer, mostly living in the .NET world — ASP.NET Core, Angular, SQL Server — with a growing focus on getting AI features to actually hold up in production rather than just in a demo.
+Full-stack engineer, mostly living in the .NET world, ASP.NET Core, Angular, SQL Server, with a growing focus on getting AI features to actually hold up in production rather than just in a demo.
 
 Backend: C# · .NET Core · ASP.NET Core · Entity Framework Core · REST APIs · Node.js
 Frontend: Angular · React · TypeScript
