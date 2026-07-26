@@ -1,13 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=140&section=header&text=Riya%20Patel&fontSize=38&fontColor=000&animation=fadeIn&fontAlignY=45&desc=Full-Stack Software Engineer | .NET Core, Angular, Node.js | AI/LLM Integration | MSCS @ WKU&descAlignY=68&descSize=14&descColor=94a3b8" width="100%" alt="header" />
+Full-Stack Software Engineer | .NET Core, Angular, Node.js | AI/LLM Integration | MSCS @ WKU
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&background=00000000&width=600&lines=Full-Stack+Engineer+%7C+5%2B+Years+in+Production;.NET+Core+%C2%B7+Angular+%C2%B7+React+%C2%B7+SQL+Server+%C2%B7+AI;Building+systems+that+hold+up+outside+demos;Open+to+remote+opportunities)](https://git.io/typing-svg)
 
-I'm a Full-Stack Software Engineer with 5+ years of experience shipping production-grade systems in the .NET ecosystem, and more recently integrating AI and LLMs into those systems in ways that hold up outside of demos.
+Full-stack engineer, mostly living in the .NET world — ASP.NET Core, Angular, SQL Server — with a growing focus on getting AI features to actually hold up in production rather than just in a demo.
 
-Most of my career has been spent building backend APIs with ASP.NET Core and C#, designing SQL Server schemas and stored procedures, and wiring up Angular and React frontends. I care about performance, clean architecture, and writing code that the next person can actually maintain.
-
-I'm currently finishing my Master's in Computer Science at Western Kentucky University, where I also teach Python and CS fundamentals as a Graduate Assistant. I'm open to remote Software Engineering roles, especially where backend systems, data, and AI come together.
-
+Backend: C# · .NET Core · ASP.NET Core · Entity Framework Core · REST APIs · Node.js
+Frontend: Angular · React · TypeScript
+Data: SQL Server · PostgreSQL · MongoDB
+AI/LLM: RAG · FAISS · OCR · Multi-Agent Systems · Prompt Engineering
 
 ## What I Work With
 
@@ -55,7 +55,7 @@ Built onboarding docs and led pair programming walkthroughs that cut junior engi
 
 ## Get In Touch
 
-I'm actively looking for remote Software Engineering roles, backend-heavy, ideally where .NET systems and AI intersect.
+Open to full-stack and backend roles, especially where .NET and AI intersect.
 
 [![Email](https://img.shields.io/badge/rs.patelriya%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rs.patelriya@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/riyapatel--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyapatel-dev)
